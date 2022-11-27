@@ -3,8 +3,8 @@
 
 int main(int, char **)
 {
-    std::string helloJim = generateHelloString("Jim");
-    std::cout << helloJim << std::endl;
+    std::string helloFredrik = generateHelloString("Fredrik");
+    std::cout << helloFredrik << std::endl;
 
     return 0;
 }
